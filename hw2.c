@@ -40,8 +40,8 @@ int main() {
             return 0;
     }
 
-    printf("\n🌀 Shape: %s\n", shape);
-    printf("🧹 Best for: %s\n", dustType);
+    printf("\nShape: %s\n", shape);
+    printf("Best for: %s\n", dustType);
     printf("----------------------------------------\n");
 
     
