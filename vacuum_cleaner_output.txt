@@ -1,0 +1,135 @@
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> gcc demo.c
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> ./a.exe   
+Select Vacuum Shape:
+1. Circle  (Best for Fine Dust)
+2. Square  (Best for Large Debris)
+3. Triangle (Best for Liquid Spills)
+4. Hexagon (Best for Mixed Cleaning)
+Enter your choice: 1
+
+Shape: Circle
+Best for: Fine Dust
+---------------------------------------
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 1
+[START] The Circle-shaped vacuum starts cleaning Fine Dust.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 2
+[STOP] The Circle-shaped vacuum has stopped.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 3
+[MOVE] Turning LEFT to cover more Fine Dust.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 4
+[MOVE] Turning RIGHT to cover more Fine Dust.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 5
+[DOCK] Returning to docking station. Battery recharging...
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 6
+[EXIT] Shutting down vacuum program.
+
+  
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> gcc demo.c
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> ./a.exe   
+Select Vacuum Shape:
+1. Circle  (Best for Fine Dust)
+2. Square  (Best for Large Debris)
+3. Triangle (Best for Liquid Spills)
+4. Hexagon (Best for Mixed Cleaning)
+Enter your choice: 4
+
+Shape: Hexagon
+Best for: Mixed Cleaning
+----------------------------------------
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 1
+[START] The Hexagon-shaped vacuum starts cleaning Mixed Cleaning.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 2
+[STOP] The Hexagon-shaped vacuum has stopped.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 3
+[MOVE] Turning LEFT to cover more Mixed Cleaning.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 4
+[MOVE] Turning RIGHT to cover more Mixed Cleaning.
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 5
+[DOCK] Returning to docking station. Battery recharging...
+Commands:
+1. Start
+2. Stop
+3. Left
+4. Right
+5. Dock
+6. Exit
+Enter your command number: 6
+[EXIT] Shutting down vacuum program.
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> 
