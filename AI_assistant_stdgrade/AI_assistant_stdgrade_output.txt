@@ -1,0 +1,35 @@
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> gcc demo.c
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> ./a.exe
+Enter your marks for Maths: 99
+Enter your marks for Physics: 98
+Enter your marks for Chemistry: 99
+Enter your marks for English: 97
+Enter your marks for Computer Science: 90
+Enter your marks for Physical Education: 95
+The average is: 96.333336
+Grade: A+
+
+
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> gcc demo.c
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> ./a.exe
+Enter your marks for Maths: 88
+Enter your marks for Physics: 76
+Enter your marks for Chemistry: 67
+Enter your marks for English: 44
+Enter your marks for Computer Science: 55
+Enter your marks for Physical Education: 32
+The average is: 60.333332
+Grade: B+
+
+
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> gcc demo.c                                                                                         
+PS C:\Users\Aditya\OneDrive\Desktop\c programing> ./a.exe                                                                                            
+Enter your marks for Maths: 22
+Enter your marks for Physics: 34
+Enter your marks for Chemistry: 53
+Enter your marks for English: 23
+Enter your marks for Computer Science: 21
+Enter your marks for Physical Education: 20
+The average is: 28.833334
+Grade: C+
+PS C:\Users\Aditya\OneDrive\Desktop\c programing>    
